@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mananmehta3
 - 👀 I’m interested in SDE roles and android development roles
-- 🌱 I’m currently learning problem solving in C++ and android development in kotlin
+- 🌱 I’m currently learning problem solving in Java and android development in Kotlin
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me email(mananmehta@outlook.com)
 
