@@ -18,8 +18,7 @@
 
 - 👀 I’m interested in SDE roles.
 - 🌱 I’m currently learning problem solving in Java and technologies related to DevOps
-- 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me email(mananmehta@outlook.com)
+- 💞️ I’m looking to collaborate. 
 - GitHub stats -
 
 <p align="center">
