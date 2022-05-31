@@ -17,7 +17,7 @@
 </br>
 
 - 👀 I’m interested in SDE roles.
-- 🌱 I’m currently learning problem solving in Java and technologies related to DevOps
+- 🌱 I’m currently learning problem solving in Java.
 - 💞️ I’m looking to collaborate. 
 - GitHub stats -
 
