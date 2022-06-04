@@ -1,4 +1,6 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="0px">, I'm **Manan**!
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="0px">
+
+## Hey, I'm **Manan**! 
 
 <a href="https://www.linkedin.com/in/manan-mehta-b39a581ba/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -17,7 +19,7 @@
 </br>
 
 - 👀 I’m interested in SDE roles.
-- 🌱 I’m currently learning problem solving in Java.
+- 🌱 I’m currently learning problem solving in Java and application development in Flutter.
 - 💞️ I’m looking to collaborate. 
 - GitHub stats -
 
