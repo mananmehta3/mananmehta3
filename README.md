@@ -1,5 +1,3 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="0px">
-
 ## Hey, I'm **Manan**! 
 ### Connect with me -
 <a href="https://www.linkedin.com/in/manan-mehta-b39a581ba/">
